@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+      <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="mmd, lifestyle, capriles, padron, venezuela, estilo de vida, table settings, decor">
+    <meta name="author" content="Mischka Capriles">
+    <title> MyMothersDaughters </title>
+    <link rel="stylesheet" href="styles-mmd.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body bgcolor="MediumAquaMarine">
+	<img scr="mmglogo.png" style="width:80%;height:80%;"/>
+    
+	<ul>
+	<li> <a href="shop.html"> Shop <img scr="" alt="aqua pants" align="middle" /> </a>  </li>
+    <li> <a href="About.html">  About <img scr="" alt="" align="middle" /> </a></li>
+    <li> <a href="Tables.html"> My Mothers Tables <img scr="" alt="" align="middle" /> </a></li>
+    <li> <a href="mothersreads.html"> My Mother´s Reads <img scr="" alt="" align="middle" />  </a></li>
+    <li> <a href="petitpoisson.html"> Petit Poisson 3 <img scr="" alt="" align="middle" /> </a> </li>
+   </ul>
+
+
+</body>
