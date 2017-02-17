@@ -1,0 +1,48 @@
+header {
+	text-align: center;
+	background-size: cover;
+	background: url(https://static.vecteezy.com/system/resources/previews/000/123/565/original/pastel-vector-abstract-marble-background.jpg);
+    color:#602040;
+    font-family: 'Cutive Mono', monospace;
+    font-family: 'PT Mono', monospace;
+    }
+a {
+    text-decoration: none;
+}
+
+ .link { color: #602040	
+    }
+ul { list-style-type: none
+    }
+.bigger { font-size: 20px;
+    }
+
+body { color: #602040;
+    font-family:  ;
+    font-size: ;
+    background:#ffe6e6 ;
+    font-family: 'PT Mono', monospace;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    }
+	
+
+h1 { font-size: 35px;
+    }
+
+.attribute { text-align: right;
+    color: #602040;
+    
+	}
+mmd { float:left;
+    color: #602040;
+	}
+
+.JasonSilva, { float:right;
+	}
+.music { float:left;
+     color: #602040;
+    }
+
+.quote { float:right;
+    }
