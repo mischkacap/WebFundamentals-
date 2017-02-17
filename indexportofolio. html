@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="portafolio">
+    <meta name="author" content="Mischka Capriles">
+    <title> MyBrain- WORDS </title>
+    <link href="reset.css" type="text/css" rel="stylesheet">
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|PT+Mono" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+</head>
+<body>
+<header>
+	<h1> WORDS </h1>
+    <p class=pullquote2>
+
+    <h3> Because I value them. <br/> If not, pictures, art, music </h3>
+    <p class=pullquote>
+ "This is a tiny fragment of the big, bigger picture" </p>
+ <p> <a class= "attribute" href= "about"> -Me </a> 
+     <br/> </p> <p class="bigger"> Welcome to my brain </p>
+ <ul>
+ <li> <a class="link" href= "journalism.html"> Journalism </a> </li>
+ <li> <a class= "link" href="photos.html"> Photos </a></li>
+ <li> <a class= "link" href="Thoughts.html"> Thoughts </a> </li>
+ <li> <a class= "link" href="likes.html"> Likes </a> </li>
+ <li> <a class= "link" href="projects.hmtl"> Projects </a> </li>
+ </ul>
+ </header>
+
+  
+ <div class= "rbody" >
+     <div class="mmd">
+<a class= "link" href="mmd/index.html">
+ <h4> <img scr="mischkacap.github.io/mmdlogo.png" style="width:20%;height:20%;" align="bottom"/> My Mothers Daughters </h4>
+  <p2> The art of living gracefully and appreciating beauty </p2> 
+</a>
+  </div>
+        
+     <div class= "quote">
+         <p>
+  "No hay peor ciego que el que no quiere ver" 
+  </p>
+  <p class="attribute"> -Somewhere in the bible </p>
+         </div>
+     
+    <div class="music"> 
+        <p class="spotify"> Now Playing </p>
+        <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Amishcapriles%3Aplaylist%3A4btA4Gdb780E14OnJU5MaL" width="210" height="80" frameborder="0" allowtransparency="true"> Now Playing </iframe>
+     </div>
+     
+     
+      <div class="youtube">
+     <iframe class="JasonSilva" width="560" height="315" src="https://www.youtube.com/embed/xD7q2-F1B5c" frameborder="0" allowfullscreen> Watch </iframe>
+     </div>
+     
+     
+     
+     
+  </div>
+ </body>
+ </html>
+
