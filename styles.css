@@ -14,8 +14,11 @@ a {
     }
 ul { list-style-type: none
     }
+li { display: inline;
+}
 .bigger { font-size: 20px;
     }
+
 
 body { color: #602040;
     font-family:  ;
