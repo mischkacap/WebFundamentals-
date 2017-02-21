@@ -13,8 +13,11 @@ a {
  .link { color: #602040;
     }
 ul { list-style-type: none;
+	background: #f2e6ff;
+	
     }
 li { display: inline;
+	background:#f2e6ff;
 }
 .bigger { font-size: 20px;
     }
